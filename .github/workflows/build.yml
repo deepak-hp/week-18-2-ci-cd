@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Insatll Dependencies
+      - name: Install Dependencies
         run: npm install
 
       - name: Run Build
